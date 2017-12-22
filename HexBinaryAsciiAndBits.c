@@ -3,7 +3,7 @@
 *CS125
 *program HW5
 *
-*ASk the user for a text string and print it in hex, decimal and binary and
+*Ask the user for a text string and print it in hex, decimal and binary and
 *count how many bits were set.
 *******************************************************************************/
 
