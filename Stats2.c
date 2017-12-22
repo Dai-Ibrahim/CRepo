@@ -3,7 +3,9 @@
 * CS125
 * Program HW3
 *
-* take input from the user and return the total, sum, average, a maximium and minimum of the values. Express it in overall, positive and negative values. Give messages to the user explaining the special situations.
+* take input from the user and return the total, sum, average, a maximium
+and minimum of the values. Express it in overall, positive and negative values.
+Give messages to the user explaining the special situations.
 **************************************************************************/
 
 #include<stdio.h>
