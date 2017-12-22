@@ -5,7 +5,7 @@
 *
 * creat an array of random integers and print it. Make a function that swaps the 
 * the numbersand puts them into ascending order.
-* Then print out th sorted array. 
+* Then print out the sorted array. 
 *******************************************************************************/
 
 #include<stdio.h>
